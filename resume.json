@@ -1,0 +1,51 @@
+{
+	"basics": {
+		"name": "Nurul Hasan",
+		"label": "Student",
+		"picture": "https://instagram.fdel1-4.fna.fbcdn.net/v/t51.2885-19/s150x150/136182174_234076884828509_4996167810700259530_n.jpg?_nc_ht=instagram.fdel1-4.fna.fbcdn.net&_nc_ohc=KvaUEDBR9bAAX8XYjz3&edm=AP_V10EBAAAA&ccb=7-4&oh=2465e9d41330e35fa0a0fcb8b02fe46d&oe=610CF72B&_nc_sid=4f375e",
+		"email": "2020kucp1109@iiitkota.ac.in",
+		"summary": "Hello, my self Nurul I am from kota rajasthan currently perseuing Btech in computer science  engineering in IIIT KOTA. I love to  web designing and  enhancing my skills in frontend development and coding ",
+		"location": {
+			"address": "kota ",
+			"postalCode": "324006",
+			"city": "kota",
+			"countryCode": "India",
+			"region": "Rajasthan"
+		},
+		"profiles": [
+			{
+				"network": "Github",
+				"username": "Nurulhasan1338",
+				"url": "https://www.github.com/Nurulhasan1338/"
+			},
+			{
+				"network": "linkedin",
+				"username": "nurul-hasan-173550204",
+				"url": "http://www.linkedin.com/in/nurul-hasan-173550204/"
+			},
+			{
+				"network": "Instagram",
+				"username": "nurul_hasan61",
+				"url": "https://instagram.com/nurul_hasan61"
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2021-12-2",
+		"endDate": "2024-07-15",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"skills": [{
+		"level": "intermediate",
+		"keywords": ["HTML", "CSS", "Javascript", "PHP", "React", "C/C++","jQuery"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["cricket", "Badminton","Running"]
+	}]
+}
