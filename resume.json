@@ -42,12 +42,10 @@
 	}],
 	"skills": [{
 		"level": "intermediate",
-		"keywords": ["HTML", "CSS", "Javascript", "PHP", "React", "C/C++","OOPS IN C++"]
+		"keywords": ["HTML", "CSS", "Javascript", "PHP", "React", "C/C++","OOPS IN C++","photography"]
 	}],
 	"interests": [{
 		"name": "Sports",
 		"keywords": ["cricket", "Badminton","Running"]
-		"name": "other"
-		"keywords": ["webdevelopment", "content creator","competative programing"]
 	}]
 }
