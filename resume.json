@@ -46,8 +46,8 @@
 	}],
 	"interests": [{
 		"name": "Sports",
-		"keywords": ["cricket", "Badminton","Running"],
-		"name": "other",
+		"keywords": ["cricket", "Badminton","Running"]
+		"name2": "other",
 		"keywords": ["webdevelopment", "content creator","competative programing"]
 	}]
 }
