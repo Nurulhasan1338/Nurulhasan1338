@@ -47,7 +47,7 @@
 	"interests": [{
 		"name": "Sports",
 		"keywords": ["cricket", "Badminton","Running"]
-		"name2": "other",
+		"name": "other"
 		"keywords": ["webdevelopment", "content creator","competative programing"]
 	}]
 }
