@@ -2,7 +2,7 @@
 	"basics": {
 		"name": "Nurul Hasan",
 		"label": "Student",
-		"picture": "https://lh3.googleusercontent.com/-1kbTSrnaHzg/X8iUIVi9irI/AAAAAAAAADQ/QHickEJgjC4kKRNUWTND7V9HasTEZhcVQCEwYBhgLKtQDABHVOhzL6bc74N4wD3NWwF5nxtPG3FV1Ux2t2cMGql2b9R-_I7qnXMx-KvOW8S4syv42imLEkUHDLgQvuxv9AWnC9AsciFqh3QXzJU7PHjeHpVqBuCS8Br7XRp7vbq5DQnsbRRH-0F0gggr6ueZLI-rFLg4PVk48uQL_H72irksSL7FPw6M2nL-7dWDvS-SRm--3I4NbnbqrrK0rddjNBuofSdhME9AvO0u5CkuXiNs8pXDQohuyfM1qY1_G2eUhqIKqL1xOFMeEwKMT1SC2t6MoVlHQC2qTXvc4noRGnGiCmx2Lati7tUT-53_AspAMxYC-wWs_t5KDi_m4v89H0laSl_WrH9nwEnstmsNWhaR_dRd7JTTnsEV4yFI6mvJmcaccxdUfJIegJdissW_pjcxpZ4nsI-9HIVyKPxI1HsUcfAKLyW3kr2F3T2znWYtE-n0Zz1ev3JevWN_xYCCZ5aTQZTEFqUJMWvhxpMjDD9ZhJTmjOU4UzHhHVmNHOxGwq0nkual5QBDoXTQGgBSWm92NjmJqhj-qXtyVP87Hbo6LQWAO8O-NTi9sDQyjJnwc3q5T6aq1I-3VYlQJ3R7Gj6QrdA5jdV4AQUCaWINtvVKYZ4n_MOiN0IgG/w140-h140-p/2020-12-02.jpg",
+		"picture": "https://lh3.googleusercontent.com/-1gV8EDiXe5I/YG644dj33YI/AAAAAAAAADg/WTHrEcGefIQPndX6f1OJLm1hDz23XHWagCEwYBhgLKtQDABHVOhzL6bc74N4wD3NWwF5nxtPG3FV1Ux2t2cMGql2b9R-_I7qnXMx-KvOW8S4syv42imLEkUHDLgQvuxv9AWnC9AsciFqh3QXzJU7PHjeHpVqBuCS8Br7XRp7vbq5DQnsbRRH-0F0gggr6ueZLI-rFLg4PVk48uQL_H72irksSL7FPw6M2nL-7dWDvS-SRm--3I4NbnbqrrK0rddjNBuofSdhME9AvO0u5CkuXiNs8pXDQohuyfM1qY1_G2eUhqIKqL1xOFMeEwKMT1SC2t6MoVlHQC2qTXvc4noRGnGiCmx2Lati7tUT-53_AspAMxYC-wWs_t5KDi_m4v89H0laSl_WrH9nwEnstmsNWhaR_dRd7JTTnsEV4yFI6mvJmcaccxdUfJIegJdissW_pjcxpZ4nsI-9HIVyKPxI1HsUcfAKLyW3kr2F3T2znWYtE-n0Zz1ev3JevWN_xYCCZ5aTQZTEFqUJMWvhxpMjDD9ZhJTmjOU4UzHhHVmNHOxGwq0nkual5QBDoXTQGgBSWm92NjmJqhj-qXtyVP87Hbo6LQWAO8O-NTi9sDQyjJnwc3q5T6aq1I-3VYlQJ3R7Gj6QrdA5jdV4AQUCaWINtvVKYZ4n_MOiN0IgG/w140-h140-p/2021-04-08.jpg",
 		"email": "2020kucp1109@iiitkota.ac.in",
 		"summary": "Hello, my self Nurul I am from kota rajasthan currently perseuing Btech in computer science  engineering in IIIT KOTA. I love to  web designing and  enhancing my skills in frontend development and coding ",
 		"location": {
@@ -46,6 +46,8 @@
 	}],
 	"interests": [{
 		"name": "Sports",
-		"keywords": ["cricket", "Badminton","Running"]
+		"keywords": ["cricket", "Badminton","Running"],
+		"name": "other",
+		"keywords": ["webdevelopment", "content creator","competative programing"]
 	}]
 }
