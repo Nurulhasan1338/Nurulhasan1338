@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Nurulhasan1338
-- 👀 I’m interested in web development now a days
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on google kick start
+- 👋 Hi, I’m Nurul Hasan
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning Javascript and react.js
+- 💞️ I want to be a competative coder
 - 📫 you can reach to me via linkedin --> http://www.linkedin.com/in/nurul-hasan-173550204
 
 <!---
