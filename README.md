@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Nurul Hasan
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning Javascript and react.js
-- 💞️ I want to be a competative coder
+- 💞️ I want to master DSA.
+- 🔰 Check out my protfolio website -->  https://nurulhasan1338.github.io/portfolio/
 - 📫 you can reach to me via linkedin --> http://www.linkedin.com/in/nurul-hasan-173550204
 
 <!---
