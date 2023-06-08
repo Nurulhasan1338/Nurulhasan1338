@@ -2,7 +2,7 @@
 - 🧑🏻‍🎓 pursuing undergraduate degree in Computer Science Engineering from Indian Institute of Infromation Technology Kota
 - 🔰 currently in 3rd year 
 - 👀 I’m a Mern stack developer.
-- 🌐Check out my protfolio website -->  https://nurulhasan1338.github.io/portfolio/
+- 🌐Check out my protfolio website -->  https://main.d3qcdmbk3rdvdq.amplifyapp.com/
 - 📫 you can reach to me via linkedin --> http://www.linkedin.com/in/nurul-hasan-173550204
 
 <!---
