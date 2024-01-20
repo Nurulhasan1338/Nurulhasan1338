@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi , I'm Nur_ul_Hasan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=47F70A&center=true&vCenter=true&width=600&height=100&lines=Dedicated+Software+Engineer;Specializing+in+ML/AI%2C+Data Analytics;Competitive+Programmer;" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=47F70A&center=true&vCenter=true&width=600&height=100&lines=Dedicated+Software+Engineer;Specializing+in+Web+Development;I+am+MERN+Stack+Developer;" alt="Typing SVG" /></a>
 </p>
 
 <br>
@@ -15,7 +15,7 @@
 	
 ## <picture><img src = "https://github.com/00Utkarsh00/00Utkarsh00/blob/main/snake/IMG_3457.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/00Utkarsh00/00Utkarsh00/blob/main/snake/IMG_3458.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://cdn-media-1.freecodecamp.org/images/bIvdmOpWL2YSwkrfoTrOUWMPwyhyjhgyDDND" width = 250px></picture>
 
 <br><br>
 
@@ -59,23 +59,44 @@
   <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
   </a>
-  &emsp;
+
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
-  &emsp;
+ 
    <a href="https://www.javascript.org" target="_blank">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%2314354C.svg?style=plastic&logo=JavaScript&logoColor=white">
   </a>
-  &emsp;
    <a href="https://www.mysql.org" target="_blank">
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-%2314354C.svg?style=plastic&logo=SQL&logoColor=white">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-%2312154C.svg?style=plastic&logo=MYSQL&logoColor=white">
   </a>
+ 
+   <a href="https://www.mysql.org" target="_blank">
+    <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%2319354C.svg?style=plastic&logo=HTML&logoColor=white">
+  </a>
+
+   <a href="https://www.mysql.org" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%2414354C.svg?style=plastic&logo=Css&logoColor=white">
+  </a>
+ 
 </p>
 
-### <picture> <img src = "https://github.com/00Utkarsh00/00Utkarsh00/blob/main/snake/giphy.gif?raw=true" width = 50px>  </picture> Machine Learning
+### <picture> <img src = "https://github.com/00Utkarsh00/00Utkarsh00/blob/main/snake/giphy.gif?raw=true" width = 50px>  </picture> Web tools and Framworks
 <p align="center"> 
- <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+ <a href="https://Reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*a-HMmQFQNC76zCZBZfFgJg.gif" alt="ReactJS" width="40" height="40"/> </a> 
+ <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+	 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+  </a>
+ <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+	 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+ </a> 
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+</a> 
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+	<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+</a> 
+</p>
 </p>
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
  
