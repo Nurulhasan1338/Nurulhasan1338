@@ -81,20 +81,18 @@
  
 </p>
 
-### <picture> <img src = "https://github.com/00Utkarsh00/00Utkarsh00/blob/main/snake/giphy.gif?raw=true" width = 50px>  </picture> Web tools and Framworks
+### <picture> <img src = "https://github.com/00Utkarsh00/00Utkarsh00/blob/main/snake/giphy.gif?raw=true" width = 50px>  </picture> Web Development tools and Framworks
 <p align="center"> 
- <a href="https://Reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*a-HMmQFQNC76zCZBZfFgJg.gif" alt="ReactJS" width="40" height="40"/> </a> 
- <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-	 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a>
- <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-	 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+ <a href="https://Reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*a-HMmQFQNC76zCZBZfFgJg.gif" alt="ReactJS" width="60" height="70"/> </a> 
+
+ <a href="https://mongodb.org/" target="_blank" rel="noreferrer">
+	 <img src="https://media.giphy.com/media/tAjb5pyCEBhEb8jWxC/giphy.gif" alt="pytorch" width="60" height="60"/>
  </a> 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+<a href="https://www.expressJS.org" target="_blank" rel="noreferrer">
+	<img src="https://media.licdn.com/dms/image/D4E12AQEBg943ptCYpg/article-cover_image-shrink_720_1280/0/1686391647921?e=2147483647&v=beta&t=sTfwUvcIfW7Fuby7hMluDfuRJK3HfYMMWc2SyZR7-GA" alt="tensorflow" width="60" height="60"/>
 </a> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-	<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+<a href="https://www.nodeJS.org" target="_blank" rel="noreferrer">
+	<img src="https://miro.medium.com/v2/resize:fit:1000/1*A3EN6RoI9LIVpL7EhIGHzQ.gif" alt="tensorflow" width="60" height="60"/>
 </a> 
 </p>
 </p>
@@ -179,7 +177,8 @@
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=00Utkarsh00&theme=tokyonight_duo" alt="00Utkarsh00" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nurulhasan1338&theme=tokyonight_duo" alt="Nurulhasan1338
+" /></p>
 
 </details>
   
@@ -189,8 +188,8 @@
 	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=00Utkarsh00&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=00utkarsh00&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="UY24" height="230px"/>
+	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nurulhasan1338&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nurulhasan1338&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="UY24" height="230px"/>
 <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -201,10 +200,11 @@
 
 ----
 	
-[!00Utkarsh00's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=00Utkarsh00&theme=github)](https://github.com/00Utkarsh00/github-readme-activity-graph)
+[!Nurulhasan1338's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nurulhasan1338&theme=github)](https://github.com/Nurulhasan1338/github-readme-activity-graph)
 
  
 </details>
+
 
 <!-- <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
 
@@ -295,17 +295,3 @@
 </p>
 
 
-<!--
-**00Utkarsh00/00Utkarsh00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
